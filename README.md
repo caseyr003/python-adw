@@ -19,7 +19,7 @@ You will need the following things properly installed on your computer:
 
 ## Installation
 
-* run `git clone https://github.com/caseyr003/python-oracleadw.git`
+* run `git clone https://github.com/caseyr003/python-adw.git`
 
 ## Setup
 
